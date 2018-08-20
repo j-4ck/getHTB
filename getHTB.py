@@ -1,5 +1,6 @@
 # Please do not use this tool as a last resort!
-#
+# Script inspired by @ sanduuz on instagram!
+# long live deletehumanity
 import requests
 import json
 import base64
