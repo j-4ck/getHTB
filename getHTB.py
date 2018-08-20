@@ -1,3 +1,5 @@
+# Please do not use this tool as a last resort!
+#
 import requests
 import json
 import base64
